@@ -1,8 +1,6 @@
 <p align="center">
-    <h2 align="center">My personal website. Based on the Indigo Minimalist Jekyll Template.</h2>
+    <h2 align="center">My personal website. Based on the <a href="https://github.com/sergiokopplin/indigo/">Indigo Minimalist Jekyll Template.</a></h2>
 </p>
-
-<p align="center"> Find the theme here: <a href="https://github.com/sergiokopplin/indigo/"/></p>
 
 ***
 
