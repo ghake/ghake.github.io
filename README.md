@@ -7,6 +7,4 @@
     <img src="https://raw.githubusercontent.com/ghake/ghake.github.io/master/assets/screen-shot.png" />
 </p>
 
----
-
 [MIT](http://kopplin.mit-license.org/) License
